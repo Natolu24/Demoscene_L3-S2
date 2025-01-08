@@ -3,3 +3,5 @@ A demoscene made in C using OpenGL, SDL and GL4D, with the limitation of the exe
 
 Took this opportunity to try creating shader to make wave on water, using the sum of sines technique.
 But contrary to making somewhat real looking water, I went and had fun doing "extreme waves" for different type of visuals.
+
+Video link : https://youtu.be/M4P6-tzUCsA
